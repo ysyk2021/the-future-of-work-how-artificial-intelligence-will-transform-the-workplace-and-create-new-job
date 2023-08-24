@@ -1,5 +1,3 @@
-Automation of Routine Tasks
-=================================================================================
 
 The integration of artificial intelligence (AI) in the workplace has the potential to automate routine and repetitive tasks, leading to increased efficiency and productivity. However, this also raises concerns about the impact of AI on jobs and the labor market.
 

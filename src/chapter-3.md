@@ -1,5 +1,3 @@
-Chapter 3: Current State of AI in the Workplace
-===============================================
 
 Artificial Intelligence (AI) is already having a profound impact on the workplace. From automating routine tasks to creating new job opportunities, AI is transforming the way we work. This chapter will examine the current state of AI in the workplace, including examples of AI applications and trends in AI adoption.
 

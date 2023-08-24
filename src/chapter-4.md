@@ -1,5 +1,3 @@
-Chapter 4: Impact of AI on Jobs and the Labor Market
-====================================================
 
 The impact of AI on jobs and the labor market is a complex and multifaceted topic. While AI has the potential to automate many routine tasks, it also has the potential to create new job opportunities and transform existing roles. This chapter will explore some of the key ways in which AI is likely to impact the workforce in the coming years.
 

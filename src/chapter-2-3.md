@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================================
 
 Artificial intelligence (AI) refers to the ability of machines to perform tasks that would normally require human intelligence. One of the fundamental techniques used in AI is machine learning, a process by which machines can learn from data and improve their performance over time. This chapter will provide an introduction to machine learning techniques.
 

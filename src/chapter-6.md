@@ -1,5 +1,3 @@
-Chapter 6: Future of AI and Work
-================================
 
 The future of AI and work is a rapidly evolving landscape. As AI technology continues to develop and new applications emerge, the implications for the workforce are profound. This chapter will explore some of the key trends and potential developments in the field of AI, as well as predictions for the future of work.
 

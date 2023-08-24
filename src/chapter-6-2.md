@@ -1,5 +1,3 @@
-Predictions for the Future of Work
-====================================================================
 
 As artificial intelligence (AI) continues to transform the workplace, it is important to consider what the future of work may look like. In this chapter, we will explore some predictions for the future of work as AI becomes more integrated into the workplace.
 

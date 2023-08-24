@@ -1,5 +1,3 @@
-Examples of AI Applications Today
-==================================================================================
 
 The integration of artificial intelligence (AI) in the workplace has the potential to transform many aspects of business operations and lead to increased efficiency and productivity. This chapter will explore some of the current applications of AI in the workplace, from customer service to supply chain management.
 

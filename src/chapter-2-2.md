@@ -1,5 +1,3 @@
-Types of Artificial Intelligence
-===================================================================================================
 
 Artificial intelligence (AI) can be divided into several different categories based on the techniques and approaches used to develop intelligent machines. This chapter will provide an overview of some of the major types of AI.
 
