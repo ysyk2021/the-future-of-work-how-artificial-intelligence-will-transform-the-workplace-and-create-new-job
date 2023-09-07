@@ -12,3 +12,7 @@ Finally, the third section of the book looks to the future of work and explores 
 Overall, this book aims to provide readers with a comprehensive understanding of the ways in which AI is changing the future of work. By exploring the challenges and opportunities associated with these changes, we hope to inspire readers to think creatively about the role that technology will play in shaping our future work environments and the steps that must be taken to ensure that these changes benefit everyone.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
