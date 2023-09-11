@@ -1,5 +1,4 @@
-Chapter 7: Changes in Workforce Skills and Training Needs
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the changes in workforce skills and training needs that are being driven by the transformation of the workplace through artificial intelligence (AI). As AI continues to advance, it is crucial for individuals and organizations to adapt and acquire the necessary skills to thrive in the evolving work landscape.
 

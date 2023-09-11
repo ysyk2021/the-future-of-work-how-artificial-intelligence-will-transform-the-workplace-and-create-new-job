@@ -1,5 +1,4 @@
-Chapter 5: Automation of Routine Tasks
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the automation of routine tasks and how artificial intelligence (AI) is transforming the workplace by taking over mundane and repetitive duties. The automation of these tasks brings various benefits and implications for industries and workers.
 

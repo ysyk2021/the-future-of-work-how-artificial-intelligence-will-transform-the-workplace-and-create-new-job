@@ -1,5 +1,4 @@
-Chapter 7: Employment Disruption and Job Losses
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the potential employment disruption and job losses that may arise as a result of the integration of artificial intelligence (AI) in the workplace. While AI technologies offer numerous benefits, they also have the potential to automate certain tasks and roles, leading to shifts in employment patterns and job displacement.
 

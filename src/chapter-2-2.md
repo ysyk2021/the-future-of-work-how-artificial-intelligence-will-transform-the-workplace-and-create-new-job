@@ -1,5 +1,4 @@
-Chapter 3: Types of Artificial Intelligence
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the different types of artificial intelligence (AI) and their applications in transforming the workplace and creating new job opportunities. These types of AI vary in their capabilities and levels of autonomy, from narrow and specific tasks to broader human-like intelligence.
 

@@ -1,5 +1,4 @@
-Chapter 8: Emerging Trends and Potential Developments
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore some of the emerging trends and potential developments in the future of work, driven by the advancement of artificial intelligence (AI) and its transformative impact on the workplace. These trends indicate the direction in which work environments may evolve and the opportunities they may present.
 

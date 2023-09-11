@@ -1,5 +1,4 @@
-Chapter 5: Ethical Considerations
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the ethical considerations surrounding the integration of artificial intelligence (AI) in the workplace. As AI technologies advance and become more prevalent, it is essential to address the potential ethical implications and ensure responsible AI development and deployment.
 

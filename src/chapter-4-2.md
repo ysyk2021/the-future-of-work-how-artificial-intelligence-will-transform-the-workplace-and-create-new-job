@@ -1,5 +1,4 @@
-Chapter 6: Creation of New Job Opportunities
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how the advancement of artificial intelligence (AI) is transforming the workplace by creating new job opportunities. While AI may automate certain tasks, it also opens up avenues for innovative roles that require human skills and expertise.
 

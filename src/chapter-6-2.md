@@ -1,5 +1,4 @@
-Chapter 10: Predictions for the Future of Work
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore predictions for the future of work in the context of how artificial intelligence (AI) will transform the workplace and create new job opportunities. As AI continues to advance, it is expected to have a profound impact on various industries and employment dynamics.
 

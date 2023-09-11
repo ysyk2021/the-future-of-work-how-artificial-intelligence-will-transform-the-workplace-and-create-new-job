@@ -1,5 +1,4 @@
-Chapter 6: Security and Privacy Concerns
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the security and privacy concerns that arise with the integration of artificial intelligence (AI) in the workplace. As AI technologies become more prevalent, it is crucial to address these concerns to ensure the protection of sensitive information and maintain a secure work environment.
 

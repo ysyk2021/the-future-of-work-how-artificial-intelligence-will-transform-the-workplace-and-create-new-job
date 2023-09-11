@@ -1,5 +1,4 @@
-Chapter 8: Trends in AI Adoption in the Workplace
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the current trends in artificial intelligence (AI) adoption in the workplace. As AI technologies continue to advance, organizations are increasingly integrating AI into their operations to drive efficiency, productivity, and innovation. Let's dive into the key trends shaping the future of work.
 

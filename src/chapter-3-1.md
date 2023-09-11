@@ -1,5 +1,4 @@
-Chapter 9: Examples of AI Applications Today
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore some real-world examples of artificial intelligence (AI) applications that are already transforming the workplace across various industries. These examples demonstrate the diverse range of AI applications and their impact on productivity, efficiency, and innovation.
 
